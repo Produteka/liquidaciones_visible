@@ -154,7 +154,7 @@ const styles = {
     maxWidth: 520,
     background: "#ffffff",
     borderRadius: 16,
-    boxShadow: "0 8px 30px rgba(31,32,34,0.15)",
+    boxShadow: "0 2px 8px rgba(31,32,34,0.06)",
     padding: 32,
   },
   title: { 
